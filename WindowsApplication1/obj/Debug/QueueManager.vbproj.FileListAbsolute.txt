@@ -1,0 +1,48 @@
+Z:\User_Files\Andy\OrderManagerII\WindowsApplication1\obj\Debug\QueueManager.vbproj.GenerateResource.Cache
+Z:\User_Files\Andy\OrderManagerII\WindowsApplication1\bin\Debug\QueueManager.exe.config
+Z:\User_Files\Andy\OrderManagerII\WindowsApplication1\bin\Debug\QueueManager.exe.manifest
+Z:\User_Files\Andy\OrderManagerII\WindowsApplication1\bin\Debug\QueueManager.application
+Z:\User_Files\Andy\OrderManagerII\WindowsApplication1\bin\Debug\QueueManager.exe
+Z:\User_Files\Andy\OrderManagerII\WindowsApplication1\bin\Debug\QueueManager.pdb
+Z:\User_Files\Andy\OrderManagerII\WindowsApplication1\bin\Debug\QueueManager.xml
+Z:\User_Files\Andy\OrderManagerII\WindowsApplication1\obj\Debug\QueueManager.BTManager.resources
+Z:\User_Files\Andy\OrderManagerII\WindowsApplication1\obj\Debug\QueueManager.FPMManager.resources
+Z:\User_Files\Andy\OrderManagerII\WindowsApplication1\obj\Debug\QueueManager.IHCManager.resources
+Z:\User_Files\Andy\OrderManagerII\WindowsApplication1\obj\Debug\QueueManager.MangerFRM.resources
+Z:\User_Files\Andy\OrderManagerII\WindowsApplication1\obj\Debug\QueueManager.Resources.resources
+Z:\User_Files\Andy\OrderManagerII\WindowsApplication1\obj\Debug\QueueManager.exe.manifest
+Z:\User_Files\Andy\OrderManagerII\WindowsApplication1\obj\Debug\QueueManager.application
+Z:\User_Files\Andy\OrderManagerII\WindowsApplication1\obj\Debug\QueueManager.exe
+Z:\User_Files\Andy\OrderManagerII\WindowsApplication1\obj\Debug\QueueManager.xml
+Z:\User_Files\Andy\OrderManagerII\WindowsApplication1\obj\Debug\QueueManager.pdb
+Z:\User_Files\Andy\OrderManagerII\WindowsApplication1\obj\Debug\QueueManager.FPMView.resources
+Z:\User_Files\Andy\OrderManagerII\WindowsApplication1\obj\Debug\QueueManager.IHCView.resources
+Z:\User_Files\Andy\OrderManagerII\WindowsApplication1\obj\Debug\QueueManager.BTView.resources
+W:\WEEK1\Andy\OrderManagerII\WindowsApplication1\bin\Debug\QueueManager.exe.config
+W:\WEEK1\Andy\OrderManagerII\WindowsApplication1\obj\Debug\QueueManager.exe
+W:\WEEK1\Andy\OrderManagerII\WindowsApplication1\obj\Debug\QueueManager.xml
+W:\WEEK1\Andy\OrderManagerII\WindowsApplication1\obj\Debug\QueueManager.pdb
+W:\WEEK1\Andy\OrderManagerII\WindowsApplication1\bin\Debug\QueueManager.exe.manifest
+W:\WEEK1\Andy\OrderManagerII\WindowsApplication1\bin\Debug\QueueManager.application
+W:\WEEK1\Andy\OrderManagerII\WindowsApplication1\bin\Debug\QueueManager.exe
+W:\WEEK1\Andy\OrderManagerII\WindowsApplication1\bin\Debug\QueueManager.pdb
+W:\WEEK1\Andy\OrderManagerII\WindowsApplication1\bin\Debug\QueueManager.xml
+W:\WEEK1\Andy\OrderManagerII\WindowsApplication1\obj\Debug\QueueManager.BTManager.resources
+W:\WEEK1\Andy\OrderManagerII\WindowsApplication1\obj\Debug\QueueManager.BTView.resources
+W:\WEEK1\Andy\OrderManagerII\WindowsApplication1\obj\Debug\QueueManager.FPMManager.resources
+W:\WEEK1\Andy\OrderManagerII\WindowsApplication1\obj\Debug\QueueManager.FPMView.resources
+W:\WEEK1\Andy\OrderManagerII\WindowsApplication1\obj\Debug\QueueManager.IHCManager.resources
+W:\WEEK1\Andy\OrderManagerII\WindowsApplication1\obj\Debug\QueueManager.IHCView.resources
+W:\WEEK1\Andy\OrderManagerII\WindowsApplication1\obj\Debug\QueueManager.MangerFRM.resources
+W:\WEEK1\Andy\OrderManagerII\WindowsApplication1\obj\Debug\QueueManager.Resources.resources
+W:\WEEK1\Andy\OrderManagerII\WindowsApplication1\obj\Debug\QueueManager.vbproj.GenerateResource.Cache
+W:\WEEK1\Andy\OrderManagerII\WindowsApplication1\obj\Debug\QueueManager.exe.manifest
+W:\WEEK1\Andy\OrderManagerII\WindowsApplication1\obj\Debug\QueueManager.application
+E:\VB Projects\Andy\InventoryManager\OrderManagerII\WindowsApplication1\bin\Debug\QueueManager.exe.config
+E:\VB Projects\Andy\InventoryManager\OrderManagerII\WindowsApplication1\obj\Debug\QueueManager.exe
+E:\VB Projects\Andy\InventoryManager\OrderManagerII\WindowsApplication1\obj\Debug\QueueManager.xml
+E:\VB Projects\Andy\InventoryManager\OrderManagerII\WindowsApplication1\obj\Debug\QueueManager.pdb
+C:\Users\anday\Documents\Hacker Stuff\OrderManagerII-20200625T164238Z-001\OrderManagerII\WindowsApplication1\obj\Debug\QueueManager.vbprojAssemblyReference.cache
+C:\Users\anday\Documents\Hacker Stuff\OrderManagerII-20200625T164238Z-001\OrderManagerII\WindowsApplication1\obj\Debug\QueueManager.exe
+C:\Users\anday\Documents\Hacker Stuff\OrderManagerII-20200625T164238Z-001\OrderManagerII\WindowsApplication1\obj\Debug\QueueManager.xml
+C:\Users\anday\Documents\Hacker Stuff\OrderManagerII-20200625T164238Z-001\OrderManagerII\WindowsApplication1\obj\Debug\QueueManager.pdb

@@ -1,0 +1,820 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+QueueManager
+</name>
+</assembly>
+<members>
+<member name="P:QueueManager.My.Resources.Resources.ResourceManager">
+	<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member><member name="P:QueueManager.My.Resources.Resources.Culture">
+	<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member><member name="T:QueueManager.My.Resources.Resources">
+	<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member><member name="T:QueueManager.TBredDataDataSet1._BT_OrderQueDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:QueueManager.TBredDataDataSet1._BT_OrderQueRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:QueueManager.TBredDataDataSet1._BT_OrderQueRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:QueueManager.TBredDataDataSet1">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:QueueManager.TBredDataDataSet1TableAdapters.BT_OrderQueTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="M:QueueManager.TBredDataDataSet1TableAdapters.TableAdapterManager.UpdateUpdatedRows(QueueManager.TBredDataDataSet1,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Update rows in top-down order.
+</summary>
+</member><member name="M:QueueManager.TBredDataDataSet1TableAdapters.TableAdapterManager.UpdateInsertedRows(QueueManager.TBredDataDataSet1,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Insert rows in top-down order.
+</summary>
+</member><member name="M:QueueManager.TBredDataDataSet1TableAdapters.TableAdapterManager.UpdateDeletedRows(QueueManager.TBredDataDataSet1,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Delete rows in bottom-up order.
+</summary>
+</member><member name="M:QueueManager.TBredDataDataSet1TableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member><member name="M:QueueManager.TBredDataDataSet1TableAdapters.TableAdapterManager.UpdateAll(QueueManager.TBredDataDataSet1)">
+	<summary>
+Update all changes to the dataset.
+</summary>
+</member><member name="T:QueueManager.TBredDataDataSet1TableAdapters.TableAdapterManager.UpdateOrderOption">
+	<summary>
+Update Order Option
+</summary>
+</member><member name="T:QueueManager.TBredDataDataSet1TableAdapters.TableAdapterManager.SelfReferenceComparer">
+	<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member><member name="T:QueueManager.TBredDataDataSet1TableAdapters.TableAdapterManager">
+	<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member><member name="T:QueueManager.TBredDataDataSet4._BT_OrderQueDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:QueueManager.TBredDataDataSet4._BT_OrderQueRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:QueueManager.TBredDataDataSet4._BT_OrderQueRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:QueueManager.TBredDataDataSet4">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:QueueManager.TBredDataDataSet4TableAdapters.BT_OrderQueTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="M:QueueManager.TBredDataDataSet4TableAdapters.TableAdapterManager.UpdateUpdatedRows(QueueManager.TBredDataDataSet4,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Update rows in top-down order.
+</summary>
+</member><member name="M:QueueManager.TBredDataDataSet4TableAdapters.TableAdapterManager.UpdateInsertedRows(QueueManager.TBredDataDataSet4,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Insert rows in top-down order.
+</summary>
+</member><member name="M:QueueManager.TBredDataDataSet4TableAdapters.TableAdapterManager.UpdateDeletedRows(QueueManager.TBredDataDataSet4,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Delete rows in bottom-up order.
+</summary>
+</member><member name="M:QueueManager.TBredDataDataSet4TableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member><member name="M:QueueManager.TBredDataDataSet4TableAdapters.TableAdapterManager.UpdateAll(QueueManager.TBredDataDataSet4)">
+	<summary>
+Update all changes to the dataset.
+</summary>
+</member><member name="T:QueueManager.TBredDataDataSet4TableAdapters.TableAdapterManager.UpdateOrderOption">
+	<summary>
+Update Order Option
+</summary>
+</member><member name="T:QueueManager.TBredDataDataSet4TableAdapters.TableAdapterManager.SelfReferenceComparer">
+	<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member><member name="T:QueueManager.TBredDataDataSet4TableAdapters.TableAdapterManager">
+	<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member><member name="T:QueueManager.IHCMachWipHistDataSet.MachStat_IHCDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:QueueManager.IHCMachWipHistDataSet.MachStat_IHCRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:QueueManager.IHCMachWipHistDataSet.MachStat_IHCRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:QueueManager.IHCMachWipHistDataSet">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:QueueManager.IHCMachWipHistDataSetTableAdapters.MachStat_IHCTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="M:QueueManager.IHCMachWipHistDataSetTableAdapters.TableAdapterManager.UpdateUpdatedRows(QueueManager.IHCMachWipHistDataSet,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Update rows in top-down order.
+</summary>
+</member><member name="M:QueueManager.IHCMachWipHistDataSetTableAdapters.TableAdapterManager.UpdateInsertedRows(QueueManager.IHCMachWipHistDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Insert rows in top-down order.
+</summary>
+</member><member name="M:QueueManager.IHCMachWipHistDataSetTableAdapters.TableAdapterManager.UpdateDeletedRows(QueueManager.IHCMachWipHistDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Delete rows in bottom-up order.
+</summary>
+</member><member name="M:QueueManager.IHCMachWipHistDataSetTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member><member name="M:QueueManager.IHCMachWipHistDataSetTableAdapters.TableAdapterManager.UpdateAll(QueueManager.IHCMachWipHistDataSet)">
+	<summary>
+Update all changes to the dataset.
+</summary>
+</member><member name="T:QueueManager.IHCMachWipHistDataSetTableAdapters.TableAdapterManager.UpdateOrderOption">
+	<summary>
+Update Order Option
+</summary>
+</member><member name="T:QueueManager.IHCMachWipHistDataSetTableAdapters.TableAdapterManager.SelfReferenceComparer">
+	<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member><member name="T:QueueManager.IHCMachWipHistDataSetTableAdapters.TableAdapterManager">
+	<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member><member name="T:QueueManager.FPMTBredDataDataSet.FPM_QueDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:QueueManager.FPMTBredDataDataSet.MachIDs_FPMDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:QueueManager.FPMTBredDataDataSet.OrderTBLDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:QueueManager.FPMTBredDataDataSet.FPM_QueRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:QueueManager.FPMTBredDataDataSet.MachIDs_FPMRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:QueueManager.FPMTBredDataDataSet.OrderTBLRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:QueueManager.FPMTBredDataDataSet.FPM_QueRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:QueueManager.FPMTBredDataDataSet.MachIDs_FPMRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:QueueManager.FPMTBredDataDataSet.OrderTBLRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:QueueManager.FPMTBredDataDataSet">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:QueueManager.FPMTBredDataDataSetTableAdapters.FPM_QueTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:QueueManager.FPMTBredDataDataSetTableAdapters.MachIDs_FPMTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:QueueManager.FPMTBredDataDataSetTableAdapters.OrderTBLTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="M:QueueManager.FPMTBredDataDataSetTableAdapters.TableAdapterManager.UpdateUpdatedRows(QueueManager.FPMTBredDataDataSet,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Update rows in top-down order.
+</summary>
+</member><member name="M:QueueManager.FPMTBredDataDataSetTableAdapters.TableAdapterManager.UpdateInsertedRows(QueueManager.FPMTBredDataDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Insert rows in top-down order.
+</summary>
+</member><member name="M:QueueManager.FPMTBredDataDataSetTableAdapters.TableAdapterManager.UpdateDeletedRows(QueueManager.FPMTBredDataDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Delete rows in bottom-up order.
+</summary>
+</member><member name="M:QueueManager.FPMTBredDataDataSetTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member><member name="M:QueueManager.FPMTBredDataDataSetTableAdapters.TableAdapterManager.UpdateAll(QueueManager.FPMTBredDataDataSet)">
+	<summary>
+Update all changes to the dataset.
+</summary>
+</member><member name="T:QueueManager.FPMTBredDataDataSetTableAdapters.TableAdapterManager.UpdateOrderOption">
+	<summary>
+Update Order Option
+</summary>
+</member><member name="T:QueueManager.FPMTBredDataDataSetTableAdapters.TableAdapterManager.SelfReferenceComparer">
+	<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member><member name="T:QueueManager.FPMTBredDataDataSetTableAdapters.TableAdapterManager">
+	<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member><member name="T:QueueManager.FPMMachWipHistDataSet.MachStat_FPMDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:QueueManager.FPMMachWipHistDataSet.MachStat_FPMRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:QueueManager.FPMMachWipHistDataSet.MachStat_FPMRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:QueueManager.FPMMachWipHistDataSet">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:QueueManager.FPMMachWipHistDataSetTableAdapters.MachStat_FPMTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="M:QueueManager.FPMMachWipHistDataSetTableAdapters.TableAdapterManager.UpdateUpdatedRows(QueueManager.FPMMachWipHistDataSet,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Update rows in top-down order.
+</summary>
+</member><member name="M:QueueManager.FPMMachWipHistDataSetTableAdapters.TableAdapterManager.UpdateInsertedRows(QueueManager.FPMMachWipHistDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Insert rows in top-down order.
+</summary>
+</member><member name="M:QueueManager.FPMMachWipHistDataSetTableAdapters.TableAdapterManager.UpdateDeletedRows(QueueManager.FPMMachWipHistDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Delete rows in bottom-up order.
+</summary>
+</member><member name="M:QueueManager.FPMMachWipHistDataSetTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member><member name="M:QueueManager.FPMMachWipHistDataSetTableAdapters.TableAdapterManager.UpdateAll(QueueManager.FPMMachWipHistDataSet)">
+	<summary>
+Update all changes to the dataset.
+</summary>
+</member><member name="T:QueueManager.FPMMachWipHistDataSetTableAdapters.TableAdapterManager.UpdateOrderOption">
+	<summary>
+Update Order Option
+</summary>
+</member><member name="T:QueueManager.FPMMachWipHistDataSetTableAdapters.TableAdapterManager.SelfReferenceComparer">
+	<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member><member name="T:QueueManager.FPMMachWipHistDataSetTableAdapters.TableAdapterManager">
+	<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member><member name="T:QueueManager.MachWipHistDataSet2.MachStatDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:QueueManager.MachWipHistDataSet2.MachStatRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:QueueManager.MachWipHistDataSet2.MachStatRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:QueueManager.MachWipHistDataSet2">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:QueueManager.MachWipHistDataSet2TableAdapters.MachStatTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="M:QueueManager.MachWipHistDataSet2TableAdapters.TableAdapterManager.UpdateUpdatedRows(QueueManager.MachWipHistDataSet2,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Update rows in top-down order.
+</summary>
+</member><member name="M:QueueManager.MachWipHistDataSet2TableAdapters.TableAdapterManager.UpdateInsertedRows(QueueManager.MachWipHistDataSet2,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Insert rows in top-down order.
+</summary>
+</member><member name="M:QueueManager.MachWipHistDataSet2TableAdapters.TableAdapterManager.UpdateDeletedRows(QueueManager.MachWipHistDataSet2,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Delete rows in bottom-up order.
+</summary>
+</member><member name="M:QueueManager.MachWipHistDataSet2TableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member><member name="M:QueueManager.MachWipHistDataSet2TableAdapters.TableAdapterManager.UpdateAll(QueueManager.MachWipHistDataSet2)">
+	<summary>
+Update all changes to the dataset.
+</summary>
+</member><member name="T:QueueManager.MachWipHistDataSet2TableAdapters.TableAdapterManager.UpdateOrderOption">
+	<summary>
+Update Order Option
+</summary>
+</member><member name="T:QueueManager.MachWipHistDataSet2TableAdapters.TableAdapterManager.SelfReferenceComparer">
+	<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member><member name="T:QueueManager.MachWipHistDataSet2TableAdapters.TableAdapterManager">
+	<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member><member name="T:QueueManager.TBredDataDataSet3.MachIDsDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:QueueManager.TBredDataDataSet3.MachIDsRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:QueueManager.TBredDataDataSet3.MachIDsRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:QueueManager.TBredDataDataSet3">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:QueueManager.TBredDataDataSet3TableAdapters.MachIDsTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="M:QueueManager.TBredDataDataSet3TableAdapters.TableAdapterManager.UpdateUpdatedRows(QueueManager.TBredDataDataSet3,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Update rows in top-down order.
+</summary>
+</member><member name="M:QueueManager.TBredDataDataSet3TableAdapters.TableAdapterManager.UpdateInsertedRows(QueueManager.TBredDataDataSet3,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Insert rows in top-down order.
+</summary>
+</member><member name="M:QueueManager.TBredDataDataSet3TableAdapters.TableAdapterManager.UpdateDeletedRows(QueueManager.TBredDataDataSet3,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Delete rows in bottom-up order.
+</summary>
+</member><member name="M:QueueManager.TBredDataDataSet3TableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member><member name="M:QueueManager.TBredDataDataSet3TableAdapters.TableAdapterManager.UpdateAll(QueueManager.TBredDataDataSet3)">
+	<summary>
+Update all changes to the dataset.
+</summary>
+</member><member name="T:QueueManager.TBredDataDataSet3TableAdapters.TableAdapterManager.UpdateOrderOption">
+	<summary>
+Update Order Option
+</summary>
+</member><member name="T:QueueManager.TBredDataDataSet3TableAdapters.TableAdapterManager.SelfReferenceComparer">
+	<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member><member name="T:QueueManager.TBredDataDataSet3TableAdapters.TableAdapterManager">
+	<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member><member name="T:QueueManager.MachWipHistDataSet">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:QueueManager.MachWipHistDataSet1.TbredBufferDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:QueueManager.MachWipHistDataSet1.TbredBufferRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:QueueManager.MachWipHistDataSet1.TbredBufferRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:QueueManager.MachWipHistDataSet1">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:QueueManager.MachWipHistDataSet1TableAdapters.TbredBufferTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="M:QueueManager.MachWipHistDataSet1TableAdapters.TableAdapterManager.UpdateUpdatedRows(QueueManager.MachWipHistDataSet1,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Update rows in top-down order.
+</summary>
+</member><member name="M:QueueManager.MachWipHistDataSet1TableAdapters.TableAdapterManager.UpdateInsertedRows(QueueManager.MachWipHistDataSet1,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Insert rows in top-down order.
+</summary>
+</member><member name="M:QueueManager.MachWipHistDataSet1TableAdapters.TableAdapterManager.UpdateDeletedRows(QueueManager.MachWipHistDataSet1,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Delete rows in bottom-up order.
+</summary>
+</member><member name="M:QueueManager.MachWipHistDataSet1TableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member><member name="M:QueueManager.MachWipHistDataSet1TableAdapters.TableAdapterManager.UpdateAll(QueueManager.MachWipHistDataSet1)">
+	<summary>
+Update all changes to the dataset.
+</summary>
+</member><member name="T:QueueManager.MachWipHistDataSet1TableAdapters.TableAdapterManager.UpdateOrderOption">
+	<summary>
+Update Order Option
+</summary>
+</member><member name="T:QueueManager.MachWipHistDataSet1TableAdapters.TableAdapterManager.SelfReferenceComparer">
+	<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member><member name="T:QueueManager.MachWipHistDataSet1TableAdapters.TableAdapterManager">
+	<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member><member name="T:QueueManager.AccidentDataDataSet.EquipmentTBLDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:QueueManager.AccidentDataDataSet.EquipmentTBLRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:QueueManager.AccidentDataDataSet.EquipmentTBLRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:QueueManager.AccidentDataDataSet">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:QueueManager.AccidentDataDataSetTableAdapters.EquipmentTBLTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="M:QueueManager.AccidentDataDataSetTableAdapters.TableAdapterManager.UpdateUpdatedRows(QueueManager.AccidentDataDataSet,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Update rows in top-down order.
+</summary>
+</member><member name="M:QueueManager.AccidentDataDataSetTableAdapters.TableAdapterManager.UpdateInsertedRows(QueueManager.AccidentDataDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Insert rows in top-down order.
+</summary>
+</member><member name="M:QueueManager.AccidentDataDataSetTableAdapters.TableAdapterManager.UpdateDeletedRows(QueueManager.AccidentDataDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Delete rows in bottom-up order.
+</summary>
+</member><member name="M:QueueManager.AccidentDataDataSetTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member><member name="M:QueueManager.AccidentDataDataSetTableAdapters.TableAdapterManager.UpdateAll(QueueManager.AccidentDataDataSet)">
+	<summary>
+Update all changes to the dataset.
+</summary>
+</member><member name="T:QueueManager.AccidentDataDataSetTableAdapters.TableAdapterManager.UpdateOrderOption">
+	<summary>
+Update Order Option
+</summary>
+</member><member name="T:QueueManager.AccidentDataDataSetTableAdapters.TableAdapterManager.SelfReferenceComparer">
+	<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member><member name="T:QueueManager.AccidentDataDataSetTableAdapters.TableAdapterManager">
+	<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member><member name="T:QueueManager.TBredDataDataSet2.BT_OrderQueDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:QueueManager.TBredDataDataSet2.BT_OrderQueRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:QueueManager.TBredDataDataSet2.BT_OrderQueRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:QueueManager.TBredDataDataSet2">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:QueueManager.TBredDataDataSet2TableAdapters.BT_OrderQueTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="M:QueueManager.TBredDataDataSet2TableAdapters.TableAdapterManager.UpdateUpdatedRows(QueueManager.TBredDataDataSet2,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Update rows in top-down order.
+</summary>
+</member><member name="M:QueueManager.TBredDataDataSet2TableAdapters.TableAdapterManager.UpdateInsertedRows(QueueManager.TBredDataDataSet2,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Insert rows in top-down order.
+</summary>
+</member><member name="M:QueueManager.TBredDataDataSet2TableAdapters.TableAdapterManager.UpdateDeletedRows(QueueManager.TBredDataDataSet2,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Delete rows in bottom-up order.
+</summary>
+</member><member name="M:QueueManager.TBredDataDataSet2TableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member><member name="M:QueueManager.TBredDataDataSet2TableAdapters.TableAdapterManager.UpdateAll(QueueManager.TBredDataDataSet2)">
+	<summary>
+Update all changes to the dataset.
+</summary>
+</member><member name="T:QueueManager.TBredDataDataSet2TableAdapters.TableAdapterManager.UpdateOrderOption">
+	<summary>
+Update Order Option
+</summary>
+</member><member name="T:QueueManager.TBredDataDataSet2TableAdapters.TableAdapterManager.SelfReferenceComparer">
+	<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member><member name="T:QueueManager.TBredDataDataSet2TableAdapters.TableAdapterManager">
+	<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member><member name="T:QueueManager.TBredDataDataSet5.BT_QueDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:QueueManager.TBredDataDataSet5.BT_QueRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:QueueManager.TBredDataDataSet5.BT_QueRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:QueueManager.TBredDataDataSet5">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:QueueManager.TBredDataDataSet5TableAdapters.BT_QueTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="M:QueueManager.TBredDataDataSet5TableAdapters.TableAdapterManager.UpdateUpdatedRows(QueueManager.TBredDataDataSet5,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Update rows in top-down order.
+</summary>
+</member><member name="M:QueueManager.TBredDataDataSet5TableAdapters.TableAdapterManager.UpdateInsertedRows(QueueManager.TBredDataDataSet5,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Insert rows in top-down order.
+</summary>
+</member><member name="M:QueueManager.TBredDataDataSet5TableAdapters.TableAdapterManager.UpdateDeletedRows(QueueManager.TBredDataDataSet5,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Delete rows in bottom-up order.
+</summary>
+</member><member name="M:QueueManager.TBredDataDataSet5TableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member><member name="M:QueueManager.TBredDataDataSet5TableAdapters.TableAdapterManager.UpdateAll(QueueManager.TBredDataDataSet5)">
+	<summary>
+Update all changes to the dataset.
+</summary>
+</member><member name="T:QueueManager.TBredDataDataSet5TableAdapters.TableAdapterManager.UpdateOrderOption">
+	<summary>
+Update Order Option
+</summary>
+</member><member name="T:QueueManager.TBredDataDataSet5TableAdapters.TableAdapterManager.SelfReferenceComparer">
+	<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member><member name="T:QueueManager.TBredDataDataSet5TableAdapters.TableAdapterManager">
+	<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member><member name="T:QueueManager.IHCTBredDataDataSet.IHC_QueDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:QueueManager.IHCTBredDataDataSet.MachIDs_IHCDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:QueueManager.IHCTBredDataDataSet.OrderTBLDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:QueueManager.IHCTBredDataDataSet.IHC_QueRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:QueueManager.IHCTBredDataDataSet.MachIDs_IHCRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:QueueManager.IHCTBredDataDataSet.OrderTBLRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:QueueManager.IHCTBredDataDataSet.IHC_QueRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:QueueManager.IHCTBredDataDataSet.MachIDs_IHCRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:QueueManager.IHCTBredDataDataSet.OrderTBLRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:QueueManager.IHCTBredDataDataSet">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:QueueManager.IHCTBredDataDataSetTableAdapters.IHC_QueTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:QueueManager.IHCTBredDataDataSetTableAdapters.MachIDs_IHCTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:QueueManager.IHCTBredDataDataSetTableAdapters.OrderTBLTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="M:QueueManager.IHCTBredDataDataSetTableAdapters.TableAdapterManager.UpdateUpdatedRows(QueueManager.IHCTBredDataDataSet,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Update rows in top-down order.
+</summary>
+</member><member name="M:QueueManager.IHCTBredDataDataSetTableAdapters.TableAdapterManager.UpdateInsertedRows(QueueManager.IHCTBredDataDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Insert rows in top-down order.
+</summary>
+</member><member name="M:QueueManager.IHCTBredDataDataSetTableAdapters.TableAdapterManager.UpdateDeletedRows(QueueManager.IHCTBredDataDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Delete rows in bottom-up order.
+</summary>
+</member><member name="M:QueueManager.IHCTBredDataDataSetTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member><member name="M:QueueManager.IHCTBredDataDataSetTableAdapters.TableAdapterManager.UpdateAll(QueueManager.IHCTBredDataDataSet)">
+	<summary>
+Update all changes to the dataset.
+</summary>
+</member><member name="T:QueueManager.IHCTBredDataDataSetTableAdapters.TableAdapterManager.UpdateOrderOption">
+	<summary>
+Update Order Option
+</summary>
+</member><member name="T:QueueManager.IHCTBredDataDataSetTableAdapters.TableAdapterManager.SelfReferenceComparer">
+	<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member><member name="T:QueueManager.IHCTBredDataDataSetTableAdapters.TableAdapterManager">
+	<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member><member name="T:QueueManager.TBredDataDataSet.OrderTBLDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:QueueManager.TBredDataDataSet.OrderTBLRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:QueueManager.TBredDataDataSet.OrderTBLRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:QueueManager.TBredDataDataSet">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:QueueManager.TBredDataDataSetTableAdapters.OrderTBLTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="M:QueueManager.TBredDataDataSetTableAdapters.TableAdapterManager.UpdateUpdatedRows(QueueManager.TBredDataDataSet,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Update rows in top-down order.
+</summary>
+</member><member name="M:QueueManager.TBredDataDataSetTableAdapters.TableAdapterManager.UpdateInsertedRows(QueueManager.TBredDataDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Insert rows in top-down order.
+</summary>
+</member><member name="M:QueueManager.TBredDataDataSetTableAdapters.TableAdapterManager.UpdateDeletedRows(QueueManager.TBredDataDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Delete rows in bottom-up order.
+</summary>
+</member><member name="M:QueueManager.TBredDataDataSetTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member><member name="M:QueueManager.TBredDataDataSetTableAdapters.TableAdapterManager.UpdateAll(QueueManager.TBredDataDataSet)">
+	<summary>
+Update all changes to the dataset.
+</summary>
+</member><member name="T:QueueManager.TBredDataDataSetTableAdapters.TableAdapterManager.UpdateOrderOption">
+	<summary>
+Update Order Option
+</summary>
+</member><member name="T:QueueManager.TBredDataDataSetTableAdapters.TableAdapterManager.SelfReferenceComparer">
+	<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member><member name="T:QueueManager.TBredDataDataSetTableAdapters.TableAdapterManager">
+	<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member><member name="T:QueueManager.TBredDataDataSetIHCView.OrderTBLDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:QueueManager.TBredDataDataSetIHCView.OrderTBLRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:QueueManager.TBredDataDataSetIHCView.OrderTBLRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:QueueManager.TBredDataDataSetIHCView">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:QueueManager.TBredDataDataSetIHCViewTableAdapters.OrderTBLTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="M:QueueManager.TBredDataDataSetIHCViewTableAdapters.TableAdapterManager.UpdateUpdatedRows(QueueManager.TBredDataDataSetIHCView,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Update rows in top-down order.
+</summary>
+</member><member name="M:QueueManager.TBredDataDataSetIHCViewTableAdapters.TableAdapterManager.UpdateInsertedRows(QueueManager.TBredDataDataSetIHCView,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Insert rows in top-down order.
+</summary>
+</member><member name="M:QueueManager.TBredDataDataSetIHCViewTableAdapters.TableAdapterManager.UpdateDeletedRows(QueueManager.TBredDataDataSetIHCView,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Delete rows in bottom-up order.
+</summary>
+</member><member name="M:QueueManager.TBredDataDataSetIHCViewTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member><member name="M:QueueManager.TBredDataDataSetIHCViewTableAdapters.TableAdapterManager.UpdateAll(QueueManager.TBredDataDataSetIHCView)">
+	<summary>
+Update all changes to the dataset.
+</summary>
+</member><member name="T:QueueManager.TBredDataDataSetIHCViewTableAdapters.TableAdapterManager.UpdateOrderOption">
+	<summary>
+Update Order Option
+</summary>
+</member><member name="T:QueueManager.TBredDataDataSetIHCViewTableAdapters.TableAdapterManager.SelfReferenceComparer">
+	<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member><member name="T:QueueManager.TBredDataDataSetIHCViewTableAdapters.TableAdapterManager">
+	<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member>
+</members>
+</doc>

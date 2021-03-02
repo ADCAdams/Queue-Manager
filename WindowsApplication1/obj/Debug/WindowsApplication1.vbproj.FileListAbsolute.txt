@@ -1,0 +1,28 @@
+C:\VB Projects\OrderManager\WindowsApplication1\bin\Debug\WindowsApplication1.exe.config
+C:\VB Projects\OrderManager\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+C:\VB Projects\OrderManager\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+C:\VB Projects\OrderManager\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+C:\VB Projects\OrderManager\WindowsApplication1\obj\Debug\WindowsApplication1.MangerFRM.resources
+C:\VB Projects\OrderManager\WindowsApplication1\obj\Debug\WindowsApplication1.Resources.resources
+C:\VB Projects\OrderManager\WindowsApplication1\obj\Debug\WindowsApplication1.vbproj.GenerateResource.Cache
+C:\VB Projects\OrderManager\WindowsApplication1\obj\Debug\WindowsApplication1.exe
+C:\VB Projects\OrderManager\WindowsApplication1\obj\Debug\WindowsApplication1.xml
+C:\VB Projects\OrderManager\WindowsApplication1\obj\Debug\WindowsApplication1.pdb
+C:\VB Projects\OrderManager\WindowsApplication1\obj\Debug\WindowsApplication1.BTManager.resources
+Z:\User_Files\Andy\OrderManagerII\WindowsApplication1\bin\Debug\WindowsApplication1.exe.config
+Z:\User_Files\Andy\OrderManagerII\WindowsApplication1\obj\Debug\WindowsApplication1.exe
+Z:\User_Files\Andy\OrderManagerII\WindowsApplication1\obj\Debug\WindowsApplication1.xml
+Z:\User_Files\Andy\OrderManagerII\WindowsApplication1\obj\Debug\WindowsApplication1.pdb
+Z:\User_Files\Andy\OrderManagerII\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+Z:\User_Files\Andy\OrderManagerII\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+Z:\User_Files\Andy\OrderManagerII\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+Z:\User_Files\Andy\OrderManagerII\WindowsApplication1\obj\Debug\WindowsApplication1.BTManager.resources
+Z:\User_Files\Andy\OrderManagerII\WindowsApplication1\obj\Debug\WindowsApplication1.MangerFRM.resources
+Z:\User_Files\Andy\OrderManagerII\WindowsApplication1\obj\Debug\WindowsApplication1.Resources.resources
+Z:\User_Files\Andy\OrderManagerII\WindowsApplication1\obj\Debug\WindowsApplication1.vbproj.GenerateResource.Cache
+Z:\User_Files\Andy\OrderManagerII\WindowsApplication1\bin\Debug\WindowsApplication1.exe.manifest
+Z:\User_Files\Andy\OrderManagerII\WindowsApplication1\bin\Debug\WindowsApplication1.application
+Z:\User_Files\Andy\OrderManagerII\WindowsApplication1\obj\Debug\WindowsApplication1.exe.manifest
+Z:\User_Files\Andy\OrderManagerII\WindowsApplication1\obj\Debug\WindowsApplication1.application
+Z:\User_Files\Andy\OrderManagerII\WindowsApplication1\obj\Debug\WindowsApplication1.IHCManager.resources
+Z:\User_Files\Andy\OrderManagerII\WindowsApplication1\obj\Debug\WindowsApplication1.FPMManager.resources
